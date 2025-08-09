@@ -25,7 +25,6 @@ Subnet Range: 10.0.0.0 - 10.0.0.127
 Other available subnets in VNet:
 /25 - 10.0.0.128 - 10.0.0.255
 /25 - 10.0.1.0   - 10.0.1.127
-...
 ```
 
 Run – Mode: Prefix
@@ -52,5 +51,4 @@ First Subnet Range: 10.0.0.0 - 10.0.0.255
 Other available subnets in VNet:
 /24 - 10.0.1.0 - 10.0.1.255
 /24 - 10.0.2.0 - 10.0.2.255
-...
 ```
